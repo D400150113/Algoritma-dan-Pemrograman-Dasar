@@ -1,0 +1,12 @@
+inisialisasi variable a, b, c
+D = b^2-4a*c
+if D<0 then x1=x2=-b/2a
+print x1 & x2
+else
+if D>0 then x1=(-b+sqrt(D))/2*a  x2=(-b-sqrt(D))/2*a 
+print x1 & x2
+else 
+i=(sqrt(-D))/2a 
+x1=((-b+sqrt(D))/2*a)*i  x2=((-b-sqrt(D))/2*a)*i
+print x1 & x2
+selesai
