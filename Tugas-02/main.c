@@ -8,7 +8,7 @@ int main()
  printf("+-- Program Mencari Akar Persamaan Kuadrat --+ \n");
  printf("+---- Bentuk Persamaan ax^2 + bx + c = 0 ----+ \n");
  printf("+------------- Guruh Andi Pratama -----------+ \n");
- printf("+----------------- D400150*** ---------------+ \n");
+ printf("+----------------- D400150113 ---------------+ \n");
  printf("+--------------------------------------------+ \n");
  printf(" Masukan Nilai a = ");scanf("%f",&a);
  printf(" Masukan Nilai b = ");scanf("%f",&b);
